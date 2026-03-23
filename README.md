@@ -42,12 +42,12 @@ I’m Shahnad S, a Team Lead & Senior Software Engineer with 6+ years of experie
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) 
 
 ### 🤖 AI & Productivity
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)  
-[![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?logo=cursor&logoColor=white)](https://cursor.sh/)  
-[![Claude](https://img.shields.io/badge/Claude-%23000000.svg?logo=anthropic&logoColor=white)](https://claude.ai/)  
-[![Grok](https://img.shields.io/badge/Grok-%23000000.svg?logo=x&logoColor=white)](https://x.ai/)  
-[![Gemini](https://img.shields.io/badge/Gemini-%23000000.svg?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)  
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23000000.svg?logo=openai&logoColor=white)](https://learnprompting.org/)  
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)](https://github.com/features/copilot) 
+[![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?logo=cursor&logoColor=white)](https://cursor.sh/) 
+[![Claude](https://img.shields.io/badge/Claude-%23000000.svg?logo=anthropic&logoColor=white)](https://claude.ai/) 
+[![Grok](https://img.shields.io/badge/Grok-%23000000.svg?logo=x&logoColor=white)](https://x.ai/) 
+[![Gemini](https://img.shields.io/badge/Gemini-%23000000.svg?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/) 
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23000000.svg?logo=openai&logoColor=white)](https://learnprompting.org/)
 
 ---
 
