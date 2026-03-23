@@ -78,10 +78,22 @@ College of Engineering, Attingal (IHRD), Cochin University of Science and Techno
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnad" alt="shahnad" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahnad" alt="shahnad trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnad&show_icons=true&locale=en&layout=compact" alt="shahnad" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnad&show_icons=true&locale=en&layout=compact" alt="shahnad top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnad&show_icons=true&locale=en" alt="shahnad" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnad&show_icons=true&locale=en" alt="shahnad stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnad&" alt="shahnad" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnad" alt="shahnad streak stats" />
+</p>
+
+ 
