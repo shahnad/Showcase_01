@@ -1,17 +1,19 @@
 # 💫 About Me:
 I’m Shahnad S, a Team Lead & Senior Software Engineer with 6+ years of experience building scalable, high-quality web applications. I specialize in **React, Node.js, GraphQL, and AI-assisted workflows**. Beyond coding, I thrive in collaborative environments, mentoring developers, managing risks, and bridging communication between teams and stakeholders. Let’s build something impactful together!
 # 📊 Profile Highlights
-
-- 💻 **Code Contributions:** 20+ production-ready projects delivered, with thousands of lines of optimized React & Node.js code.  
-- 🎨 **TailwindCSS Proficiency:** Expert in building responsive, scalable UI components with utility-first design.  
-- 📦 **Package Handling:** Skilled in managing NPM/Yarn packages, custom libraries, and dependency optimization.  
-- 🛡️ **Error Handling:** Implemented robust error boundaries, logging, and recovery strategies across multiple applications.  
+ 
+- 💻 **Code Contributions:** 100K+ lines of production-ready React & Node.js code written and maintained.  
+- 🎨 **TailwindCSS Expertise:** Built 20+ responsive, scalable UI projects using utility-first design principles.  
+- 📦 **Package Handling:** Experienced in managing 50+ NPM/Yarn packages, custom libraries, and dependency optimization.  
+- 🛡️ **Error Handling:** Implemented robust error boundaries, logging, and recovery strategies across enterprise apps.  
 - ⚙️ **Workflow Automation:** CI/CD pipelines with Azure DevOps, Git Flow, and automated testing using Jest.  
-- 🔄 **State Management:** Deep expertise in Redux, Zustand, Context API for scalable application state handling.  
-- 🌐 **API Integrations:** RESTful & GraphQL APIs integrated seamlessly into enterprise-grade applications.  
-- 🤖 **AI-Assisted Development:** Leveraging GitHub Copilot, Cursor, Claude, Grok, Gemini, and prompt engineering for faster, smarter workflows.  
-- 🧩 **Reusable Components:** Designed modular, reusable UI libraries for cross-project consistency.  
-- 📊 **Performance Optimization:** Techniques like lazy loading, code splitting, memoization, and caching to boost app speed.  
+- 🔄 **State Management:** Advanced proficiency in Redux, Zustand, and Context API for scalable state handling.  
+- 🌐 **API Integrations:** Integrated 30+ RESTful & GraphQL APIs into enterprise-grade applications.  
+- 🤖 **AI-Assisted Development:** Leveraging GitHub Copilot, Cursor, Claude, Grok, Gemini, and prompt engineering for faster workflows.  
+- 🧩 **Reusable Components:** Designed modular UI libraries reused across multiple projects.  
+- 🚀 **Performance Optimization:** Applied lazy loading, code splitting, memoization, and caching to boost app speed.  
+- 🔍 **Debugging & Testing:** Skilled in Jest, ESLint, SonarQube, and error monitoring for reliable deployments.  
+
 
 # 💻 Tech Stack
 
