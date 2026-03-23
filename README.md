@@ -1,14 +1,17 @@
 # 💫 About Me:
 I’m Shahnad S, a Team Lead & Senior Software Engineer with 6+ years of experience building scalable, high-quality web applications. I specialize in **React, Node.js, GraphQL, and AI-assisted workflows**. Beyond coding, I thrive in collaborative environments, mentoring developers, managing risks, and bridging communication between teams and stakeholders. Let’s build something impactful together!
+# 📊 Profile Highlights
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShahnadSharafudeen) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahnad_s) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnad-s-a8594bb7) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9840345) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahnad_s) 
-
----
+- 💻 **Code Contributions:** 100+ production-ready projects delivered, with thousands of lines of optimized React & Node.js code.  
+- 🎨 **TailwindCSS Proficiency:** Expert in building responsive, scalable UI components with utility-first design.  
+- 📦 **Package Handling:** Skilled in managing NPM/Yarn packages, custom libraries, and dependency optimization.  
+- 🛡️ **Error Handling:** Implemented robust error boundaries, logging, and recovery strategies across multiple applications.  
+- ⚙️ **Workflow Automation:** CI/CD pipelines with Azure DevOps, Git Flow, and automated testing using Jest.  
+- 🔄 **State Management:** Deep expertise in Redux, Zustand, Context API for scalable application state handling.  
+- 🌐 **API Integrations:** RESTful & GraphQL APIs integrated seamlessly into enterprise-grade applications.  
+- 🤖 **AI-Assisted Development:** Leveraging GitHub Copilot, Cursor, Claude, Grok, Gemini, and prompt engineering for faster, smarter workflows.  
+- 🧩 **Reusable Components:** Designed modular, reusable UI libraries for cross-project consistency.  
+- 📊 **Performance Optimization:** Techniques like lazy loading, code splitting, memoization, and caching to boost app speed.  
 
 # 💻 Tech Stack
 
@@ -75,7 +78,14 @@ I’m Shahnad S, a Team Lead & Senior Software Engineer with 6+ years of experie
 - **GT Pro Control Panel, Reybex, TAB Admin, MCGL, Surreal Music, LMS, NBFC-Nidhi, Field Master Console, Local Physio, Fybr** – Diverse applications across logistics, HR, finance, healthcare, and entertainment.  
 
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShahnadSharafudeen) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahnad_s) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnad-s-a8594bb7) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9840345) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahnad_s) 
 
+---
 # 🎓 Qualification
 **B.Tech in Computer Science (2013–2017)**  
 College of Engineering, Attingal (IHRD), Cochin University of Science and Technology  
