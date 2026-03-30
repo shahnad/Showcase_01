@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m Shahnad S, a Team Lead & Senior Software Engineer with 6+ years of experience building scalable, high-quality web applications. I specialize in **React, Node.js, GraphQL, and AI-assisted workflows**. Beyond coding, I thrive in collaborative environments, mentoring developers, managing risks, and bridging communication between teams and stakeholders. Let’s build something impactful together!
+# SHAHNAD S
+Team Lead & Senior Software Engineer with 6+ years of experience building scalable, high-quality web applications. I specialize in **React, Node.js, GraphQL, and AI-assisted workflows**. Beyond coding, I thrive in collaborative environments, mentoring developers, managing risks, and bridging communication between teams and stakeholders. Let’s build something impactful together!
 # 📊 Profile Highlights
  
 - 💻 **Code Contributions:** 100K+ lines of production-ready React & Node.js code written and maintained.  
